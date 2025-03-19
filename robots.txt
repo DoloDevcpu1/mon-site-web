@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dolodevcpu1.github.io/mon-site-web/sitemap.xml
